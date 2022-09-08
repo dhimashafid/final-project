@@ -1,0 +1,6 @@
+delete node_module folder
+cd client
+npm install
+npm install qrcode.react
+truffle compile
+truffle migrate
